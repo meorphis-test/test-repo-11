@@ -4,7 +4,7 @@
 
 This library provides convenient access to the Meorphis Test 24 REST API from server-side TypeScript or JavaScript.
 
-The REST API documentation can be found [on docs.meorphis.com](https://docs.meorphis.com). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found [on mydocs.meorphis.com](https://mydocs.meorphis.com). The full API of this library can be found in [api.md](api.md).
 
 ## Installation
 
