@@ -1,4 +1,4 @@
-# Meorphis Test 24 Node API Library :D
+# Meorphis Test 24 Node API Library :)
 
 [![NPM version](https://img.shields.io/npm/v/meorphis-test-24.svg)](https://npmjs.org/package/meorphis-test-24)
 
