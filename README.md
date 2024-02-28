@@ -1,10 +1,10 @@
-# Meorphis Test 24 Node API Library :D
+# Meorphis Test 24 Node API Library
 
 [![NPM version](https://img.shields.io/npm/v/meorphis-test-24.svg)](https://npmjs.org/package/meorphis-test-24)
 
 This library provides convenient access to the Meorphis Test 24 REST API from server-side TypeScript or JavaScript.
 
-The REST API documentation can be found [on docs.meorphis-test-24.com](https://docs.meorphis-test-24.com). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found [on docs.meorphis.com](https://docs.meorphis.com). The full API of this library can be found in [api.md](api.md).
 
 ## Installation
 
